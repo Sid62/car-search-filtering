@@ -1,1 +1,1 @@
-# car-search-filtering
+# Hotel-search-filtering
